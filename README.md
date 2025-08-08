@@ -72,7 +72,7 @@ The dataset used is a mock dataset curated for educational purposes and practice
 
 ## ✅ How to Use
 
-1. Clone this repository:
+1. Clone this repository: git clone https://github.com/prajwalnerkar/festival-sales-analysis-using-python/blob/main/README.md
 
 2. Open `Diwali_Sales_Analysis.ipynb` in Jupyter Notebook or any compatible IDE.
 3. Run the cells step-by-step to follow the data cleaning and analysis process.
